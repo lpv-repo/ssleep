@@ -1,5 +1,4 @@
 # Scheduled sleep
-
-![repository-open-graph-template](https://user-images.githubusercontent.com/7538200/139341017-774a0003-9038-4f89-8c00-86ed1b0962c0.png)
-
 Note: Code is dirty & has leftovers.
+
+![repository-open-graph-template](https://user-images.githubusercontent.com/7538200/139342348-523e5717-7108-477d-a5d8-6381d45e28d0.png)
