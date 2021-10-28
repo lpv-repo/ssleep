@@ -1,6 +1,8 @@
 Note: Code is dirty & has leftovers.
 
-# ssleep - Scheduled sleep
+# Scheduled sleep
+
+Pop up with scheduled sleep countdown with user given time.
 
 Usage: 
 
@@ -8,8 +10,10 @@ Specify time followed without space by 'm' for minutes or 's' for seconds.
 
 Examples: 
 
-- Ex1: path_to_exe\ssleep.exe 120s - Will set to sleep in 120 seconds.
+- Ex1: path_to_exe\ssleep.exe 120s
+Will set to sleep in 120 seconds.
 
-- Ex2: path_to_exe\ssleep.exe 20m - Will set to sleep in 20 minutes. 
+- Ex2: path_to_exe\ssleep.exe 20m
+Will set to sleep in 20 minutes. 
 
 Not specifying seconds/minutes will result in seconds output.
