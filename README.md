@@ -16,4 +16,4 @@ Will set to sleep in 120 seconds.
 - Ex2: path_to_exe\ssleep.exe 20m
 Will set to sleep in 20 minutes. 
 
-Not specifying seconds/minutes will result in seconds output.
+Not specifying seconds/minutes will default in seconds output.
