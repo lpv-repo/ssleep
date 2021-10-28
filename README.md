@@ -1,19 +1,5 @@
-Note: Code is dirty & has leftovers.
-
 # Scheduled sleep
 
-Pop up with scheduled sleep countdown with user given time.
+![repository-open-graph-template](https://user-images.githubusercontent.com/7538200/139341017-774a0003-9038-4f89-8c00-86ed1b0962c0.png)
 
-Usage: 
-
-Specify time followed without space by 'm' for minutes or 's' for seconds. 
-
-Examples: 
-
-- Ex1: path_to_exe\ssleep.exe 120s
-Will set to sleep in 120 seconds.
-
-- Ex2: path_to_exe\ssleep.exe 20m
-Will set to sleep in 20 minutes. 
-
-Not specifying seconds/minutes will default in seconds output.
+Note: Code is dirty & has leftovers.
