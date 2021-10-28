@@ -53,7 +53,7 @@
             this.Name = "HelpWindow";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Help";
-            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(CheckEnter);
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.CheckEnter);
             this.ResumeLayout(false);
             this.PerformLayout();
 
