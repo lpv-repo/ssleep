@@ -1,0 +1,16 @@
+C:\Users\lp\source\repos\ssleep\ssleep\bin\Release\ssleep.exe.config
+C:\Users\lp\source\repos\ssleep\ssleep\bin\Release\ssleep.exe
+C:\Users\lp\source\repos\ssleep\ssleep\bin\Release\ssleep.pdb
+C:\Users\lp\source\repos\ssleep\ssleep\bin\Release\CommandLine.dll
+C:\Users\lp\source\repos\ssleep\ssleep\bin\Release\CommandLine.xml
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.csproj.AssemblyReference.cache
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.csproj.SuggestedBindingRedirects.cache
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.MainWindow.resources
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.settingWindow.resources
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.HelpWindow.resources
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.Properties.Resources.resources
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.csproj.GenerateResource.cache
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.csproj.CoreCompileInputs.cache
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.csproj.CopyComplete
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.exe
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Release\ssleep.pdb
