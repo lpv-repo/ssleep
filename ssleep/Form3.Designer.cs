@@ -39,7 +39,8 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(346, 182);
             this.label1.TabIndex = 0;
-            this.label1.Text = resources.GetString("label1.Text");
+            this.label1.Text = "Usage: \n\nSpecify time followed without space by 'm' for minutes or 's' for seconds. \n\nExamples: \n\nEx1: path_to_exessleep.exe 120s\nWill set to sleep in 120 seconds.\n\nEx2: path_to_exessleep.exe 20m\nWill set to sleep in 20 minutes.\n\nNot specifying seconds / minutes will result in seconds output.";
+            //this.label1.Text = "Usage: \n\nSpecify time followed without space by 'm' for minutes or 's' for seconds. \n\nExamples: \n\nEx1: path_to_exessleep.exe 120s\nWill set to sleep in 120 seconds.\n\nEx2: path_to_exessleep.exe 20m\nWill set to sleep in 20 minutes.\n\nNot specifying seconds / minutes will result in seconds output.";
             // 
             // HelpWindow
             // 

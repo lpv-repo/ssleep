@@ -1,6 +1,6 @@
 # ssleep - Scheduled sleep
 
-Parameters: 
+Usage: 
 
 Specify time followed without space by 'm' for minutes or 's' for seconds. 
 
