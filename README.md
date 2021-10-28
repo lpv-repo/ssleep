@@ -1,4 +1,4 @@
-Note: Code is amateur at best.
+Note: Code is dirty.
 
 # ssleep - Scheduled sleep
 
