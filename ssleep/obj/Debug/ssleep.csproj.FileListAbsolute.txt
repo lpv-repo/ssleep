@@ -14,3 +14,7 @@ C:\Users\lp\source\repos\ssleep\ssleep\obj\Debug\ssleep.csproj.CoreCompileInputs
 C:\Users\lp\source\repos\ssleep\ssleep\obj\Debug\ssleep.csproj.CopyComplete
 C:\Users\lp\source\repos\ssleep\ssleep\obj\Debug\ssleep.exe
 C:\Users\lp\source\repos\ssleep\ssleep\obj\Debug\ssleep.pdb
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Debug\ssleep.exe.manifest
+C:\Users\lp\source\repos\ssleep\ssleep\bin\Debug\ssleep.exe.manifest
+C:\Users\lp\source\repos\ssleep\ssleep\bin\Debug\ssleep.application
+C:\Users\lp\source\repos\ssleep\ssleep\obj\Debug\ssleep.application
