@@ -52,5 +52,5 @@ Mkfile.old
 dkms.conf
 
 #custom
-.pfx
 /other_resources
+ssleep/ssleep_1_TemporaryKey.pfx
