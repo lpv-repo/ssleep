@@ -1,3 +1,5 @@
+Note: Code is amateur at best.
+
 # ssleep - Scheduled sleep
 
 Usage: 
@@ -11,5 +13,3 @@ Examples:
 - Ex2: path_to_exe\ssleep.exe 20m - Will set to sleep in 20 minutes. 
 
 Not specifying seconds/minutes will result in seconds output.
-
-Note: Code is amateur at best.
