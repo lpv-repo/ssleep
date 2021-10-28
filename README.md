@@ -1,4 +1,4 @@
-Note: Code is dirty.
+Note: Code is dirty & has leftovers.
 
 # ssleep - Scheduled sleep
 
