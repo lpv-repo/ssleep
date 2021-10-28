@@ -37,7 +37,6 @@ namespace ssleep
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
             if (args.Length == 1)
             {
                 char z = args[0].Last();
@@ -47,8 +46,22 @@ namespace ssleep
                 bool parsedToInt = Int32.TryParse(args[0].Substring(0, args[0].Length - 1), out input);
                 int time = 0;
 
+                // todo
+                //
+                // convert negative value to positive - ssleep.exe -20m = 20minutes
+
+                //public int negative2Positive(int i) => (i + (i >> 31)) ^ (i >> 31);
+                //or
+                //public int negative2Positive(int i)
+                //{
+                //    return (i + (i >> 31)) ^ (i >> 31);
+                //}
+
+
                 if (parsedToIntAll && inputAll >= 0)
                 {
+                    if (inputAll < 0)
+
                     time = inputAll;
                 }
                 else if (parsedToInt && z == 'm' && input >= 0)

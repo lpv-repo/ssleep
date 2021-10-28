@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="label1.Text" xml:space="preserve">
-    <value>Parameters: 
+    <value>Usage: 
 
 Specify time followed without space by 'm' for minutes or 's' for seconds. 
 
@@ -128,10 +128,9 @@ Ex1: path_to_exe\ssleep.exe 120s
 Will set to sleep in 120 seconds.
 
 Ex2: path_to_exe\ssleep.exe 20m
+Will set to sleep in 20 minutes.
 
-Will set to sleep in 20 minutes. 
-
-Not specifying seconds/minutes will result in seconds output.</value>
+Not specifying seconds/minutes will default to seconds output.</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

@@ -4,7 +4,7 @@
   <description asmv2:iconFile="icon3.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="ssleep" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="ssleep" version="1.0.0.0" publicKeyToken="DD2FE3BCFEC3D9D6" language="neutral" processorArchitecture="msil" />
     <commandLine file="ssleep.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ssleep.exe" size="1068032">
-      <assemblyIdentity name="ssleep" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ssleep.exe" size="1072416">
+      <assemblyIdentity name="ssleep" version="1.0.0.0" publicKeyToken="DD2FE3BCFEC3D9D6" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>28AtcdkVWf/XmjMyHIAEIDDLb0ysbTiAJccGpm9uPfw=</dsig:DigestValue>
+        <dsig:DigestValue>Ey1AvnvgU6S2BxKPPiD7vxIh8nR5IxCg+BKYPpJI8P0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
